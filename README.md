@@ -1,3 +1,5 @@
+Thanks to Javascript Mastery for creating this course which helps me understand more about next js. Here is the reference - https://youtu.be/wm5gMKuwSYk
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
